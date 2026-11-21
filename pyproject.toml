@@ -8,6 +8,7 @@ dependencies = [
     "gymnasium[box2d]>=1.4.0",
     "matplotlib>=3.11.2",
     "moviepy>=2.2.1",
+    "stable-baselines3>=2.9.2",
 ]
 
 [project.scripts]
